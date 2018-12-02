@@ -1,0 +1,53 @@
+2018-12-02 10:30:21.313 [main] INFO  com.course.Application - Starting Application on DESKTOP-GOPHRU3 with PID 6712 (C:\Users\gaorui.gu\Desktop\AutoTest3\target\classes started by gaorui.gu in C:\Users\gaorui.gu\Desktop\AutoTest3)
+2018-12-02 10:30:21.322 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2018-12-02 10:30:22.207 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2018-12-02 10:30:22.501 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bf85bd24] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-12-02 10:30:22.711 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-12-02 10:30:22.944 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2018-12-02 10:30:22.959 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-12-02 10:30:22.965 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-12-02 10:30:22.965 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2018-12-02 10:30:22.971 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-12-02 10:30:23.074 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-12-02 10:30:23.075 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1681 ms
+2018-12-02 10:30:23.115 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2018-12-02 10:30:23.121 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-12-02 10:30:23.122 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-12-02 10:30:23.122 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2018-12-02 10:30:23.122 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2018-12-02 10:30:23.967 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-02 10:30:24.114 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2018-12-02 10:30:24.161 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2018-12-02 10:30:24.180 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-12-02 10:30:24.192 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2018-12-02 10:30:24.449 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2018-12-02 10:30:24.453 [main] INFO  com.course.Application - Started Application in 3.557 seconds (JVM running for 4.336)
+2018-12-02 10:38:13.089 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-12-02 10:38:13.089 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2018-12-02 10:38:13.102 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 12 ms
+2018-12-02 10:38:13.206 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-12-02 10:38:13.581 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-12-02 10:38:13.648 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-12-02 10:38:15.763 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-12-02 10:38:15.840 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - cookies验证通过
+2018-12-02 10:38:15.881 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-12-02 10:38:18.988 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - cookies验证通过
+2018-12-02 10:38:19.030 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-12-02 10:38:21.134 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-12-02 10:38:21.142 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-12-02 10:38:24.259 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - cookies验证通过
+2018-12-02 10:38:24.264 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-12-02 10:38:24.492 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - cookies验证通过
+2018-12-02 10:38:24.548 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是0
+2018-12-02 10:56:36.085 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-12-02 10:56:38.215 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-12-02 10:56:38.276 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - cookies验证通过
+2018-12-02 10:56:38.312 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-12-02 10:56:41.369 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - cookies验证通过
+2018-12-02 10:56:41.372 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-12-02 10:56:43.457 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - cookies验证通过
+2018-12-02 10:56:43.462 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-12-02 10:56:46.554 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - cookies验证通过
+2018-12-02 10:56:46.557 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-12-02 10:56:46.628 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-12-02 10:56:46.634 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是0

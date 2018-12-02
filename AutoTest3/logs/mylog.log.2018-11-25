@@ -1,0 +1,1459 @@
+2018-11-25 00:25:54.263 [main] INFO  com.course.Application - Starting Application on DESKTOP-GOPHRU3 with PID 19684 (C:\Users\gaorui.gu\Desktop\AutoTest3\target\classes started by gaorui.gu in C:\Users\gaorui.gu\Desktop\AutoTest3)
+2018-11-25 00:25:54.282 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2018-11-25 00:25:55.102 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2018-11-25 00:25:55.376 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1bca7260] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-25 00:25:55.547 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 00:25:55.653 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2018-11-25 00:25:55.663 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 00:25:55.668 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-11-25 00:25:55.668 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2018-11-25 00:25:55.674 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 00:25:55.769 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-11-25 00:25:55.769 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1426 ms
+2018-11-25 00:25:55.799 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2018-11-25 00:25:55.803 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-25 00:25:55.804 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-25 00:25:55.804 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-25 00:25:55.804 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-25 00:25:56.511 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-25 00:25:56.642 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2018-11-25 00:25:56.692 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2018-11-25 00:25:56.704 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-11-25 00:25:56.716 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2018-11-25 00:25:56.956 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2018-11-25 00:25:56.960 [main] INFO  com.course.Application - Started Application in 3.06 seconds (JVM running for 4.007)
+2018-11-25 00:26:21.737 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2018-11-25 00:26:21.740 [RMI TCP Connection(8)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+2018-11-25 00:26:21.742 [RMI TCP Connection(8)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-11-25 00:26:29.949 [main] INFO  com.course.Application - Starting Application on DESKTOP-GOPHRU3 with PID 29576 (C:\Users\gaorui.gu\Desktop\AutoTest3\target\classes started by gaorui.gu in C:\Users\gaorui.gu\Desktop\AutoTest3)
+2018-11-25 00:26:29.953 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2018-11-25 00:26:30.855 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2018-11-25 00:26:31.208 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9fdb99c4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-25 00:26:31.462 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 00:26:31.590 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2018-11-25 00:26:31.605 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 00:26:31.610 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-11-25 00:26:31.611 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2018-11-25 00:26:31.619 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 00:26:31.725 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-11-25 00:26:31.725 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1719 ms
+2018-11-25 00:26:31.762 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2018-11-25 00:26:31.769 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-25 00:26:31.769 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-25 00:26:31.769 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-25 00:26:31.769 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-25 00:26:32.454 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-25 00:26:32.584 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2018-11-25 00:26:32.630 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2018-11-25 00:26:32.644 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-11-25 00:26:32.656 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2018-11-25 00:26:32.959 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2018-11-25 00:26:32.965 [main] INFO  com.course.Application - Started Application in 3.473 seconds (JVM running for 4.316)
+2018-11-25 00:26:48.886 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-11-25 00:26:48.886 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2018-11-25 00:26:48.893 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2018-11-25 00:27:18.404 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - cookies为空
+2018-11-25 00:28:05.596 [http-nio-8888-exec-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-11-25 00:28:06.883 [http-nio-8888-exec-6] ERROR com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Exception during pool initialization.
+java.sql.SQLException: The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:835)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:455)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:240)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:207)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:136)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:369)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:198)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:467)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:541)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:151)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:115)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:78)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:84)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:70)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:336)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:84)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:77)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:434)
+	at com.sun.proxy.$Proxy65.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:167)
+	at com.course.controller.UserManager.login(UserManager.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:215)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:142)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:998)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:901)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:875)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:770)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132)
+	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2234)
+	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2258)
+	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1319)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:966)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825)
+	... 87 common frames omitted
+2018-11-25 00:28:06.924 [http-nio-8888-exec-6] ERROR o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+### The error may exist in file [C:\Users\gaorui.gu\Desktop\AutoTest3\target\classes\mapper\mysql.xml]
+### The error may involve com.course.login
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.] with root cause
+com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132)
+	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2234)
+	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2258)
+	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1319)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:966)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:455)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:240)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:207)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:136)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:369)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:198)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:467)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:541)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:151)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:115)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:78)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:84)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:70)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:336)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:84)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:77)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:434)
+	at com.sun.proxy.$Proxy65.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:167)
+	at com.course.controller.UserManager.login(UserManager.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:215)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:142)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:998)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:901)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:875)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:770)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-25 00:28:52.605 [RMI TCP Connection(13)-127.0.0.1] INFO  o.s.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2018-11-25 00:28:52.608 [RMI TCP Connection(13)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+2018-11-25 00:28:52.609 [RMI TCP Connection(13)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-11-25 00:29:04.659 [main] INFO  com.course.Application - Starting Application on DESKTOP-GOPHRU3 with PID 24096 (C:\Users\gaorui.gu\Desktop\AutoTest3\target\classes started by gaorui.gu in C:\Users\gaorui.gu\Desktop\AutoTest3)
+2018-11-25 00:29:04.662 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2018-11-25 00:29:05.396 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2018-11-25 00:29:05.663 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e269ee2e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-25 00:29:05.831 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 00:29:05.935 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2018-11-25 00:29:05.946 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 00:29:05.950 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-11-25 00:29:05.950 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2018-11-25 00:29:05.956 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 00:29:06.050 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-11-25 00:29:06.050 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1340 ms
+2018-11-25 00:29:06.080 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2018-11-25 00:29:06.085 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-25 00:29:06.085 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-25 00:29:06.085 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-25 00:29:06.085 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-25 00:29:06.770 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-25 00:29:06.899 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2018-11-25 00:29:06.941 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2018-11-25 00:29:06.954 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-11-25 00:29:06.966 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2018-11-25 00:29:07.198 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2018-11-25 00:29:07.202 [main] INFO  com.course.Application - Started Application in 2.864 seconds (JVM running for 3.528)
+2018-11-25 00:29:16.768 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-11-25 00:29:16.768 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2018-11-25 00:29:16.775 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2018-11-25 00:29:16.861 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-11-25 00:29:17.143 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-11-25 00:29:17.184 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 00:32:27.799 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 00:32:27.822 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是3
+2018-11-25 08:00:58.829 [RMI TCP Connection(460)-127.0.0.1] INFO  o.s.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2018-11-25 08:00:58.831 [RMI TCP Connection(460)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+2018-11-25 08:00:58.832 [RMI TCP Connection(460)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-11-25 08:00:58.833 [RMI TCP Connection(460)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-11-25 08:00:58.845 [RMI TCP Connection(460)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-11-25 08:26:18.672 [main] INFO  com.course.Application - Starting Application on DESKTOP-GOPHRU3 with PID 35036 (C:\Users\gaorui.gu\Desktop\AutoTest3\target\classes started by gaorui.gu in C:\Users\gaorui.gu\Desktop\AutoTest3)
+2018-11-25 08:26:18.676 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2018-11-25 08:26:19.450 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2018-11-25 08:26:19.996 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4491119] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-25 08:26:20.291 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 08:26:20.401 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2018-11-25 08:26:20.413 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 08:26:20.417 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-11-25 08:26:20.417 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2018-11-25 08:26:20.424 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 08:26:20.514 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-11-25 08:26:20.514 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1786 ms
+2018-11-25 08:26:20.542 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2018-11-25 08:26:20.546 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-25 08:26:20.546 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-25 08:26:20.546 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-25 08:26:20.547 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-25 08:26:21.365 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-25 08:26:21.502 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2018-11-25 08:26:21.546 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2018-11-25 08:26:21.561 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-11-25 08:26:21.575 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2018-11-25 08:26:21.813 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2018-11-25 08:26:21.817 [main] INFO  com.course.Application - Started Application in 3.478 seconds (JVM running for 4.248)
+2018-11-25 08:26:36.911 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-11-25 08:26:36.911 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2018-11-25 08:26:36.918 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2018-11-25 08:26:58.796 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 08:26:58.827 [http-nio-8888-exec-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-11-25 08:26:59.124 [http-nio-8888-exec-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-11-25 08:26:59.164 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 08:28:09.705 [RMI TCP Connection(11)-127.0.0.1] INFO  o.s.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2018-11-25 08:28:09.708 [RMI TCP Connection(11)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+2018-11-25 08:28:09.708 [RMI TCP Connection(11)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-11-25 08:28:09.710 [RMI TCP Connection(11)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-11-25 08:28:09.724 [RMI TCP Connection(11)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-11-25 10:02:47.818 [main] INFO  com.course.Application - Starting Application on DESKTOP-GOPHRU3 with PID 35332 (C:\Users\gaorui.gu\Desktop\AutoTest3\target\classes started by gaorui.gu in C:\Users\gaorui.gu\Desktop\AutoTest3)
+2018-11-25 10:02:47.822 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2018-11-25 10:02:48.554 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2018-11-25 10:02:48.822 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$58e20e5f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-25 10:02:49.004 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 10:02:49.121 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2018-11-25 10:02:49.133 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 10:02:49.137 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-11-25 10:02:49.137 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2018-11-25 10:02:49.143 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 10:02:49.234 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-11-25 10:02:49.235 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1372 ms
+2018-11-25 10:02:49.262 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2018-11-25 10:02:49.267 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-25 10:02:49.267 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-25 10:02:49.268 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-25 10:02:49.268 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-25 10:02:49.989 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-25 10:02:50.119 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2018-11-25 10:02:50.165 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2018-11-25 10:02:50.179 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-11-25 10:02:50.191 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2018-11-25 10:02:50.424 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2018-11-25 10:02:50.428 [main] INFO  com.course.Application - Started Application in 2.967 seconds (JVM running for 3.591)
+2018-11-25 10:08:27.407 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-11-25 10:08:27.408 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2018-11-25 10:08:27.415 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2018-11-25 10:08:36.380 [RMI TCP Connection(18)-127.0.0.1] INFO  o.s.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2018-11-25 10:08:36.382 [RMI TCP Connection(18)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+2018-11-25 10:08:36.383 [RMI TCP Connection(18)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-11-25 10:11:17.916 [main] INFO  com.course.Application - Starting Application on DESKTOP-GOPHRU3 with PID 44376 (C:\Users\gaorui.gu\Desktop\AutoTest3\target\classes started by gaorui.gu in C:\Users\gaorui.gu\Desktop\AutoTest3)
+2018-11-25 10:11:17.919 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2018-11-25 10:11:18.674 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2018-11-25 10:11:18.958 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4e615e1e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-25 10:11:19.134 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 10:11:19.243 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2018-11-25 10:11:19.253 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 10:11:19.257 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-11-25 10:11:19.258 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2018-11-25 10:11:19.264 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 10:11:19.363 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-11-25 10:11:19.363 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1402 ms
+2018-11-25 10:11:19.392 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2018-11-25 10:11:19.396 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-25 10:11:19.397 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-25 10:11:19.397 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-25 10:11:19.397 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-25 10:11:20.104 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-25 10:11:20.234 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2018-11-25 10:11:20.277 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2018-11-25 10:11:20.292 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-11-25 10:11:20.305 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2018-11-25 10:11:20.555 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2018-11-25 10:11:20.559 [main] INFO  com.course.Application - Started Application in 2.99 seconds (JVM running for 4.144)
+2018-11-25 10:11:24.905 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-11-25 10:11:24.906 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2018-11-25 10:11:24.914 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2018-11-25 10:12:02.136 [RMI TCP Connection(7)-127.0.0.1] INFO  o.s.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2018-11-25 10:12:02.138 [RMI TCP Connection(7)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+2018-11-25 10:12:02.139 [RMI TCP Connection(7)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-11-25 10:12:08.978 [main] INFO  com.course.Application - Starting Application on DESKTOP-GOPHRU3 with PID 33220 (C:\Users\gaorui.gu\Desktop\AutoTest3\target\classes started by gaorui.gu in C:\Users\gaorui.gu\Desktop\AutoTest3)
+2018-11-25 10:12:08.981 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2018-11-25 10:12:09.734 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2018-11-25 10:12:10.010 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$436a3f0c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-25 10:12:10.187 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 10:12:10.295 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2018-11-25 10:12:10.306 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 10:12:10.310 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-11-25 10:12:10.311 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2018-11-25 10:12:10.317 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 10:12:10.407 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-11-25 10:12:10.408 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1370 ms
+2018-11-25 10:12:10.436 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2018-11-25 10:12:10.441 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-25 10:12:10.441 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-25 10:12:10.441 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-25 10:12:10.441 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-25 10:12:11.160 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-25 10:12:11.291 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2018-11-25 10:12:11.338 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2018-11-25 10:12:11.351 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-11-25 10:12:11.362 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2018-11-25 10:12:11.602 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2018-11-25 10:12:11.605 [main] INFO  com.course.Application - Started Application in 2.944 seconds (JVM running for 3.648)
+2018-11-25 10:12:20.301 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-11-25 10:12:20.301 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2018-11-25 10:12:20.309 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2018-11-25 17:25:22.965 [http-nio-8888-exec-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-11-25 17:25:23.459 [http-nio-8888-exec-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-11-25 17:25:23.513 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 17:25:23.698 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 17:29:16.711 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 17:29:16.794 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 21:38:00.707 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 21:38:00.828 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 21:51:12.208 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 21:51:12.333 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 21:54:17.031 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 21:54:17.116 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 21:54:17.216 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 21:54:17.384 [http-nio-8888-exec-1] ERROR o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+### The error may involve com.course.addUser-Inline
+### The error occurred while setting parameters
+### SQL: insert into         user (userName,password,sex,age,permission,isDelete)         values (?,?,?,?,?,?);
+### Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+; Field 'id' doesn't have a default value; nested exception is java.sql.SQLException: Field 'id' doesn't have a default value] with root cause
+java.sql.SQLException: Field 'id' doesn't have a default value
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:974)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:391)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:434)
+	at com.sun.proxy.$Proxy65.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:279)
+	at com.course.controller.UserManager.addUser(UserManager.java:50)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:215)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:142)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:998)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:901)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:875)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:770)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-25 21:54:17.564 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 21:54:17.604 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 21:54:17.714 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 21:54:17.803 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:00:00.405 [RMI TCP Connection(1071)-127.0.0.1] INFO  o.s.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2018-11-25 22:00:00.421 [RMI TCP Connection(1071)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+2018-11-25 22:00:00.423 [RMI TCP Connection(1071)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-11-25 22:00:00.425 [RMI TCP Connection(1071)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-11-25 22:00:00.438 [RMI TCP Connection(1071)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2018-11-25 22:00:12.240 [main] INFO  com.course.Application - Starting Application on DESKTOP-GOPHRU3 with PID 52612 (C:\Users\gaorui.gu\Desktop\AutoTest3\target\classes started by gaorui.gu in C:\Users\gaorui.gu\Desktop\AutoTest3)
+2018-11-25 22:00:12.244 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2018-11-25 22:00:13.310 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2018-11-25 22:00:13.638 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$96145cd7] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-25 22:00:13.856 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 22:00:14.042 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2018-11-25 22:00:14.059 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 22:00:14.064 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2018-11-25 22:00:14.064 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2018-11-25 22:00:14.071 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.32] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2018-11-25 22:00:14.193 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2018-11-25 22:00:14.193 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1885 ms
+2018-11-25 22:00:14.230 [main] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2018-11-25 22:00:14.235 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-25 22:00:14.235 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-25 22:00:14.236 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-25 22:00:14.236 [main] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-25 22:00:15.145 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-25 22:00:15.306 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2018-11-25 22:00:15.367 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2018-11-25 22:00:15.397 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2018-11-25 22:00:15.411 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2018-11-25 22:00:15.715 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2018-11-25 22:00:15.721 [main] INFO  com.course.Application - Started Application in 3.895 seconds (JVM running for 4.7)
+2018-11-25 22:00:37.479 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-11-25 22:00:37.479 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2018-11-25 22:00:37.492 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 12 ms
+2018-11-25 22:00:37.576 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2018-11-25 22:00:37.962 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2018-11-25 22:00:38.007 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:00:38.171 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:00:38.304 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:00:38.439 [http-nio-8888-exec-3] ERROR o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+### The error may involve com.course.addUser-Inline
+### The error occurred while setting parameters
+### SQL: insert into         user (userName,password,sex,age,permission,isDelete)         values (?,?,?,?,?,?);
+### Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+; Field 'id' doesn't have a default value; nested exception is java.sql.SQLException: Field 'id' doesn't have a default value] with root cause
+java.sql.SQLException: Field 'id' doesn't have a default value
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:974)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:391)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:434)
+	at com.sun.proxy.$Proxy65.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:279)
+	at com.course.controller.UserManager.addUser(UserManager.java:50)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:215)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:142)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:998)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:901)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:875)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:770)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-25 22:00:38.653 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:00:38.681 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:00:38.842 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:00:38.937 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:02:00.930 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:02:01.030 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:02:01.148 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:02:01.151 [http-nio-8888-exec-1] ERROR o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+### The error may involve com.course.addUser-Inline
+### The error occurred while setting parameters
+### SQL: insert into         user (userName,password,sex,age,permission,isDelete)         values (?,?,?,?,?,?);
+### Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+; Field 'id' doesn't have a default value; nested exception is java.sql.SQLException: Field 'id' doesn't have a default value] with root cause
+java.sql.SQLException: Field 'id' doesn't have a default value
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:974)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:391)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:434)
+	at com.sun.proxy.$Proxy65.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:279)
+	at com.course.controller.UserManager.addUser(UserManager.java:50)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:215)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:142)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:998)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:901)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:875)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:770)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-25 22:02:01.298 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:02:01.302 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:02:01.453 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:02:01.544 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:02:39.763 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:02:39.843 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:02:40.016 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:02:40.019 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:02:40.199 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:02:40.315 [http-nio-8888-exec-1] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:04:34.481 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:04:34.571 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:04:34.666 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:04:34.670 [http-nio-8888-exec-8] ERROR o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+### The error may involve com.course.addUser-Inline
+### The error occurred while setting parameters
+### SQL: insert into         user (userName,password,sex,age,permission,isDelete)         values (?,?,?,?,?,?);
+### Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+; Field 'id' doesn't have a default value; nested exception is java.sql.SQLException: Field 'id' doesn't have a default value] with root cause
+java.sql.SQLException: Field 'id' doesn't have a default value
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:974)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:391)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:434)
+	at com.sun.proxy.$Proxy65.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:279)
+	at com.course.controller.UserManager.addUser(UserManager.java:50)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:215)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:142)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:998)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:901)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:875)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:770)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-25 22:04:34.882 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:04:34.885 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:04:34.990 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:04:35.090 [http-nio-8888-exec-9] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:07:29.638 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:07:29.731 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:07:29.813 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:07:29.816 [http-nio-8888-exec-5] ERROR o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+### The error may involve com.course.addUser-Inline
+### The error occurred while setting parameters
+### SQL: insert into         user (userName,password,sex,age,permission,isDelete)         values (?,?,?,?,?,?);
+### Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+; Field 'id' doesn't have a default value; nested exception is java.sql.SQLException: Field 'id' doesn't have a default value] with root cause
+java.sql.SQLException: Field 'id' doesn't have a default value
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:974)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:391)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:434)
+	at com.sun.proxy.$Proxy65.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:279)
+	at com.course.controller.UserManager.addUser(UserManager.java:50)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:215)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:142)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:998)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:901)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:875)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:770)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-25 22:07:32.943 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:07:32.950 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:07:33.083 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:07:33.210 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:12:46.336 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:12:46.416 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:12:46.494 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:12:46.496 [http-nio-8888-exec-2] ERROR o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+### The error may involve com.course.addUser-Inline
+### The error occurred while setting parameters
+### SQL: insert into         user (userName,password,sex,age,permission,isDelete)         values (?,?,?,?,?,?);
+### Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+; Field 'id' doesn't have a default value; nested exception is java.sql.SQLException: Field 'id' doesn't have a default value] with root cause
+java.sql.SQLException: Field 'id' doesn't have a default value
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:974)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:391)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:434)
+	at com.sun.proxy.$Proxy65.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:279)
+	at com.course.controller.UserManager.addUser(UserManager.java:50)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:215)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:142)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:998)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:901)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:875)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:770)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-25 22:12:49.616 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:12:49.622 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:12:49.759 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:12:49.875 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:13:40.188 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:13:40.297 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:13:40.376 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:13:40.378 [http-nio-8888-exec-10] ERROR o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+### The error may involve com.course.addUser-Inline
+### The error occurred while setting parameters
+### SQL: insert into         user (userName,password,sex,age,permission,isDelete)         values (?,?,?,?,?,?);
+### Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+; Field 'id' doesn't have a default value; nested exception is java.sql.SQLException: Field 'id' doesn't have a default value] with root cause
+java.sql.SQLException: Field 'id' doesn't have a default value
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:974)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:391)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:434)
+	at com.sun.proxy.$Proxy65.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:279)
+	at com.course.controller.UserManager.addUser(UserManager.java:50)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:215)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:142)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:998)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:901)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:875)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:770)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-25 22:13:43.464 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:13:43.467 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:13:43.562 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:13:43.640 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:14:01.421 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:14:01.502 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:14:01.585 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:14:01.590 [http-nio-8888-exec-6] ERROR o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+### The error may involve com.course.addUser-Inline
+### The error occurred while setting parameters
+### SQL: insert into         user (userName,password,sex,age,permission,isDelete)         values (?,?,?,?,?,?);
+### Cause: java.sql.SQLException: Field 'id' doesn't have a default value
+; Field 'id' doesn't have a default value; nested exception is java.sql.SQLException: Field 'id' doesn't have a default value] with root cause
+java.sql.SQLException: Field 'id' doesn't have a default value
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:974)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:391)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:434)
+	at com.sun.proxy.$Proxy65.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:279)
+	at com.course.controller.UserManager.addUser(UserManager.java:50)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:215)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:142)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:998)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:901)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:875)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:770)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-25 22:14:04.682 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:14:04.684 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:14:04.780 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:14:04.916 [http-nio-8888-exec-1] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:18:34.095 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:18:34.174 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:18:34.256 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:18:34.316 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 22:18:37.417 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:18:37.420 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:18:37.484 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:18:37.612 [http-nio-8888-exec-9] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:20:24.780 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:20:24.857 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:20:24.947 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:20:25.040 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 22:21:16.435 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:21:16.576 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:21:16.671 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:21:16.741 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 22:21:45.041 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:21:45.141 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:21:45.241 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:21:45.293 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 22:22:38.239 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:22:38.325 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:22:38.412 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:22:38.475 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 22:22:41.578 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:22:41.580 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:22:41.653 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:22:41.782 [http-nio-8888-exec-9] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:24:44.549 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:24:44.629 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:24:44.709 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:24:44.728 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 22:24:47.809 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:24:47.811 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:24:47.878 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:24:47.957 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain;charset=UTF-8' not supported]
+2018-11-25 22:27:07.371 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:27:07.458 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:27:07.547 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:27:07.585 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 22:27:10.673 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:27:10.676 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:27:10.844 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:27:10.857 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 22:27:11.021 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:27:11.035 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 22:30:11.070 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:30:11.163 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:30:59.099 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:30:59.178 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:30:59.275 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:30:59.342 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 22:31:02.450 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:31:02.456 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:31:02.525 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:31:02.537 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 22:31:02.716 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:31:02.730 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 22:34:42.352 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:34:42.431 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:34:42.510 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:34:42.577 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 22:34:45.671 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:34:45.673 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:34:45.751 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:34:45.767 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 22:34:45.950 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:34:45.960 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 22:40:07.305 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:40:07.385 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:40:07.481 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:40:07.554 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 22:40:10.646 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:40:10.648 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:40:13.745 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:40:13.747 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 22:40:16.901 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:40:16.906 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 22:43:37.815 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:43:39.914 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:43:40.015 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:43:40.051 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 22:43:42.119 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:43:42.121 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 22:43:45.217 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:43:45.221 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 22:43:48.364 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:43:48.368 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 22:50:28.696 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:50:30.809 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:57:26.192 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 22:57:28.290 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 22:57:28.358 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:57:28.422 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 22:57:30.505 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 22:57:30.506 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 23:05:51.596 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:05:51.719 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:05:53.798 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:05:53.807 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 23:06:42.648 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:06:44.765 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:06:44.821 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:06:44.910 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:06:47.012 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:06:47.015 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 23:06:50.115 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:06:50.119 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:06:53.253 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:06:53.256 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:10:28.098 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:10:30.199 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:10:30.251 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:10:30.342 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:10:32.428 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:10:32.431 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 23:10:34.539 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:10:34.541 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:10:37.695 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:10:37.700 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:12:29.653 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:12:31.733 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:12:31.790 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:12:31.892 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:12:33.983 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:12:33.986 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 23:12:36.060 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:12:36.064 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:12:39.168 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:12:39.171 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:14:47.505 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:14:49.614 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:14:49.686 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:14:49.782 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:14:51.868 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:14:51.870 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 23:14:53.977 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:14:53.987 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:14:57.132 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:14:57.137 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:16:55.061 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:16:57.181 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:22:07.369 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:22:09.479 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:23:25.957 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:23:28.083 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:23:28.135 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:23:28.156 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:23:30.233 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:23:30.236 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 23:23:32.345 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:23:32.349 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:23:35.494 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:23:35.500 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:26:12.014 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:26:14.138 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:26:14.199 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:26:14.236 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:26:16.327 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:26:16.328 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 23:26:18.441 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:26:18.443 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:26:21.578 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:26:21.584 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:27:32.783 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:27:34.861 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:27:34.915 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:27:34.989 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:27:37.123 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:27:37.130 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 23:27:39.232 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:27:39.234 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:27:42.359 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:27:42.361 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:29:11.070 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:29:13.181 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:29:13.235 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:29:13.272 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:29:15.384 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:29:15.387 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 23:29:17.488 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:29:17.491 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:29:20.613 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:29:20.615 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:32:13.252 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:32:15.357 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:32:15.419 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:32:15.509 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:32:59.997 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:33:02.081 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:33:02.145 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:33:02.170 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:33:47.855 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:33:49.957 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:33:50.018 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:33:50.083 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:34:46.961 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:34:49.069 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:34:49.124 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:34:49.142 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:34:51.222 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:34:51.223 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 23:34:53.294 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:34:53.296 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:34:56.447 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:34:56.451 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:35:25.978 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:35:28.088 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:35:28.146 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:35:28.240 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:35:30.331 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:35:30.334 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 23:35:32.430 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:35:32.432 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:35:35.558 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:35:35.562 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:36:17.939 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:36:20.050 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:36:20.109 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:36:20.148 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:36:22.230 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:36:22.232 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2018-11-25 23:36:24.340 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:36:24.343 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:36:27.484 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:36:27.488 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
+2018-11-25 23:36:59.334 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:37:01.423 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:37:01.496 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - cookies验证通过
+2018-11-25 23:37:01.593 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2018-11-25 23:38:20.966 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:38:23.075 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:39:18.160 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:39:20.266 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:40:57.374 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:40:59.510 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:45:46.192 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:45:48.309 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:47:53.601 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:47:55.721 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:50:09.212 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:50:11.355 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:58:32.665 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:58:34.764 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 查看到的结果是0
+2018-11-25 23:59:44.948 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 查看到的结果是1
+2018-11-25 23:59:47.030 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 查看到的结果是0

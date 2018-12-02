@@ -1,0 +1,5 @@
+2018-11-26 07:20:48.284 [RMI TCP Connection(1127)-127.0.0.1] INFO  o.s.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2018-11-26 07:20:48.312 [RMI TCP Connection(1127)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+2018-11-26 07:20:48.315 [RMI TCP Connection(1127)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-11-26 07:20:48.318 [RMI TCP Connection(1127)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2018-11-26 07:20:48.337 [RMI TCP Connection(1127)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

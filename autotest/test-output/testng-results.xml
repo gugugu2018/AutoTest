@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3180" started-at="2018-12-01T14:36:20Z" finished-at="2018-12-01T14:36:23Z">
+    <groups>
+      <group name="loginTrue">
+        <method signature="LoginTest.loginTrue()[pri:0, instance:com.gugr.cases.LoginTest@5f2108b5]" name="loginTrue" class="com.gugr.cases.LoginTest"/>
+      </group> <!-- loginTrue -->
+      <group name="loginfalse">
+        <method signature="LoginTest.loginFalse()[pri:0, instance:com.gugr.cases.LoginTest@5f2108b5]" name="loginFalse" class="com.gugr.cases.LoginTest"/>
+      </group> <!-- loginfalse -->
+    </groups>
+    <test name="Default test" duration-ms="3180" started-at="2018-12-01T14:36:20Z" finished-at="2018-12-01T14:36:23Z">
+      <class name="com.gugr.cases.LoginTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.gugr.cases.LoginTest@5f2108b5]" name="beforeTest" is-config="true" duration-ms="180" started-at="2018-12-01T22:36:20Z" description="测试准备工作，获取httpclient对象" finished-at="2018-12-01T22:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="loginFalse()[pri:0, instance:com.gugr.cases.LoginTest@5f2108b5]" name="loginFalse" duration-ms="874" started-at="2018-12-01T22:36:20Z" description="用户登录失败接口测试" finished-at="2018-12-01T22:36:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFalse -->
+        <test-method status="PASS" signature="loginTrue()[pri:0, instance:com.gugr.cases.LoginTest@5f2108b5]" name="loginTrue" duration-ms="2103" started-at="2018-12-01T22:36:21Z" description="用户登录成功接口测试" finished-at="2018-12-01T22:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTrue -->
+      </class> <!-- com.gugr.cases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

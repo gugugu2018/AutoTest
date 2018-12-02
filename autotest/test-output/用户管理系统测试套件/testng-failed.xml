@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [用户管理系统测试套件]">
+  <listeners>
+    <listener class-name="com.gugr.config.ExtentTestNGIReporterListener"/>
+  </listeners>
+  <test name="用户管理系统测试用例(failed)">
+    <classes>
+      <class name="com.gugr.cases.LoginTest">
+        <methods>
+          <include name="loginTrue"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.gugr.cases.LoginTest -->
+      <class name="com.gugr.cases.AddUserTest">
+        <methods>
+          <include name="addUser"/>
+        </methods>
+      </class> <!-- com.gugr.cases.AddUserTest -->
+    </classes>
+  </test> <!-- 用户管理系统测试用例(failed) -->
+</suite> <!-- Failed suite [用户管理系统测试套件] -->
